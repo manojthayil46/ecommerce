@@ -1,0 +1,12 @@
+.CheckoutProduct {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+
+  .CheckoutProduct__info > span{
+      padding-left : 30px;
+  }
